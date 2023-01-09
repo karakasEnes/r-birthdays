@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/karakasEnes/r-birthdays/static/css/main.8bee4867.css",
+    "main.js": "/karakasEnes/r-birthdays/static/js/main.aa7073c1.js",
+    "index.html": "/karakasEnes/r-birthdays/index.html",
+    "main.8bee4867.css.map": "/karakasEnes/r-birthdays/static/css/main.8bee4867.css.map",
+    "main.aa7073c1.js.map": "/karakasEnes/r-birthdays/static/js/main.aa7073c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bee4867.css",
+    "static/js/main.aa7073c1.js"
+  ]
+}
